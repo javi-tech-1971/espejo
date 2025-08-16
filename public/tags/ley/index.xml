@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuente de Derecho – Ley</title>
+    <link>http://localhost:1313/tags/ley/</link>
+    <description>Recent content in Ley on Fuente de Derecho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/ley/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Reforma al Código Civil y Comercial (Notas)</title>
+      <link>http://localhost:1313/ley/archivo-de-ejemplo/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ley/archivo-de-ejemplo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Texto de ejemplo en la sección &lt;strong&gt;Ley&lt;/strong&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

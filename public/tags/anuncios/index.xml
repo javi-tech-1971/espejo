@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuente de Derecho – Anuncios</title>
+    <link>http://localhost:1313/tags/anuncios/</link>
+    <description>Recent content in Anuncios on Fuente de Derecho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/anuncios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Lanzamiento del sitio</title>
+      <link>http://localhost:1313/novedades/archivo-de-ejemplo/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/novedades/archivo-de-ejemplo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;¡Gracias por visitar! Esta es una &lt;strong&gt;entrada de ejemplo&lt;/strong&gt; en Novedades para validar la sección.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
