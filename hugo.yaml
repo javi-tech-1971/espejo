@@ -2,7 +2,8 @@ title: "Fuente de Derecho"
 baseURL: "https://fuentedederecho.com.ar/"
 languageCode: "es-AR"
 defaultContentLanguage: "es"
-paginate: 10
+pagination:
+  pagerSize: 10
 enableRobotsTXT: true
 
 # Usamos Hextra vía módulos (NO pongas 'theme:' si usás modules)
