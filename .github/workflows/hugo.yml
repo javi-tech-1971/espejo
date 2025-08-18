@@ -22,11 +22,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true  # <-- ESTA ES LA LÍNEA QUE FALTABA
+          submodules: true  # <--- ESTA ES LA LÍNEA QUE RESUELVE EL PROBLEMA
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3 # He actualizado esto a la v3 que es la más reciente
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
