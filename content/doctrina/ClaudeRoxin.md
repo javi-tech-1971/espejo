@@ -9,7 +9,6 @@ tags: ["Claus Roxin", "Derecho Penal", "Doctrina Roxin", "Autoría Mediata", "Te
 categories: ["Doctrina Claus Roxin"]
 ---
 
-# Claus Roxin: la Imputación de Responsabilidad en Estructuras de Poder y la teoría de la imputación objetiva
 
 ## Sumario
 

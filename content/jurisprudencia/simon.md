@@ -9,7 +9,7 @@ categories: ["Jurisprudencia", "Memoria, Verdad y Justicia"]
 description: "Un análisis del fallo histórico de la Corte Suprema que declaró nulas las leyes de impunidad y reabrió los juicios por crímenes de la dictadura militar, reafirmando la jerarquía constitucional de los tratados internacionales."
 images: []
 ---
-# El caso Simón
+
 
 *Caso "Simón, Julio Héctor y otros s/ privación ilegítima de la libertad, etc."( CSJN del el 14 de junio de 2005)*
 

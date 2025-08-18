@@ -1,4 +1,13 @@
-# La Historia Olvidada del Derecho Penitenciario - Supervisión Judicial de Instalaciones de Detención en los Primeros Años de la Nación
+---
+title: "La Historia Olvidada del Derecho Penitenciario: Supervisión Judicial en la Fundación de EE.UU."
+date: 2025-08-12
+draft: false
+description: "Reseña del artículo de Wynne Muscatine Graham que desafía la narrativa histórica de la deferencia judicial, revelando un sistema expansivo de supervisión sobre las prisiones en los primeros años de Estados Unidos."
+autor: "Wynne Muscatine Graham"
+fuente: "138 Harv. L. Rev. 1715 (2025)"
+categories: ["Doctrina"]
+tags: ["Derecho Penitenciario", "Historia del Derecho", "Supervisión Judicial", "Deferencia Judicial", "Condiciones Carcelarias", "Originalismo"]
+---
 
 Fuente: 138 Harv. L. Rev. 1715 Volume 138, Issue 07, May 2025 pp 1715-1768
 Autor: Graham, Wynne Muscatine. .

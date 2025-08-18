@@ -9,7 +9,7 @@ categories: ["Jurisprudencia"]
 description: "Análisis del fallo 'Mazzeo' de la Corte Suprema, que declaró la inconstitucionalidad del indulto para crímenes de lesa humanidad, priorizando el derecho internacional sobre la cosa juzgada."
 images: []
 ---
-# El caso Mazzeo
+
 
 *Caso "Mazzeo, Julio Lilo y otros s/ rec. de casación e inconstitucionalidad" (CSJN, 13 de julio de 2007)*
 
