@@ -13,7 +13,7 @@ categories: ["Doctrina Claus Roxin"]
 
 ## Sumario
 
-Presentamos aquí una síntesis de la teoría de Claus Roxin, respecto de la "autoría mediata en virtud de aparatos organizados de poder" o "dominio de la organización".
+Presentamos aquí una síntesis de la teoría de Claus Roxin, respecto de la "autoría mediata en virtud de aparatos organizados de poder" o "dominio de la organización"..
 
 La teoría de Roxin, formulada en 1963 y permite imputar responsabilidad penal a individuos en la cúspide de estructuras jerárquicas que, sin ejecutar directamente los crímenes, controlan la maquinaria de poder que los lleva a cabo. 
 

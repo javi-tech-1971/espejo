@@ -19,7 +19,7 @@ description: "Análisis y resumen de la histórica sentencia que condenó a los 
 # La Sentencia Causa 13/84 (Juicio a las Juntas Militares)
 
 Fecha de la Sentencia: 9 de diciembre de 1985  
-Órganor: Cámara Nacional de Apelaciones en lo Criminal y Correccional Federal de la Capital Federal
+Órgano: Cámara Nacional de Apelaciones en lo Criminal y Correccional Federal de la Capital Federal
 
 # 1\. Contexto Histórico y Origen del Proceso Judicial
 

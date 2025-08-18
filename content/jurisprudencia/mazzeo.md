@@ -1,3 +1,14 @@
+---
+title: "Fallo Mazzeo: CSJN ratifica inconstitucionalidad de indultos por crímenes de lesa humanidad"
+subtitle: "Análisis del caso 'Mazzeo, Julio Lilo y otros' (CSJN, 13 de julio de 2007)"
+date: 2024-08-18T18:30:00-03:00
+lastmod: 2024-08-18T18:30:00-03:00
+draft: false
+tags: ["CSJN", "derecho constitucional", "derechos humanos", "lesa humanidad", "indulto", "Mazzeo"]
+categories: ["Jurisprudencia"]
+description: "Análisis del fallo 'Mazzeo' de la Corte Suprema, que declaró la inconstitucionalidad del indulto para crímenes de lesa humanidad, priorizando el derecho internacional sobre la cosa juzgada."
+images: []
+---
 # El caso Mazzeo
 
 *Caso "Mazzeo, Julio Lilo y otros s/ rec. de casación e inconstitucionalidad" (CSJN, 13 de julio de 2007)*

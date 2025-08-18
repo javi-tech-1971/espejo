@@ -1,7 +1,7 @@
 # La Historia Olvidada del Derecho Penitenciario - Supervisión Judicial de Instalaciones de Detención en los Primeros Años de la Nación
 
 Fuente: 138 Harv. L. Rev. 1715 Volume 138, Issue 07, May 2025 pp 1715-1768
-Autor: Graham, Wynne Muscatine. 
+Autor: Graham, Wynne Muscatine. .
 
 ## I. Introducción: Una Narrativa Histórica Refutada
 
