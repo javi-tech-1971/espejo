@@ -22,27 +22,31 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true  # Descarga el tema Hextra
+          submodules: true
           fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20 # Versión de Node.js recomendada
+          node-version: 20
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
-          version: 9 # Versión de pnpm
+          version: 9
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile # Instala las dependencias del tema
+        run: pnpm install --frozen-lockfile
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
+
+      # --- PASO DE DIAGNÓSTICO AÑADIDO ---
+      - name: List theme files for debugging
+        run: ls -R themes
 
       - name: Build with Hugo
         run: hugo --minify
