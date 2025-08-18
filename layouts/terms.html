@@ -1,0 +1,23 @@
+{{ define "main" }}
+<main class="main">
+  <div class="content">
+    <h1>Todas las Etiquetas</h1>
+    <hr>
+    {{ $data := .Data }}
+    {{ if $data.Terms }}
+    <ul>
+      {{ range $data.Terms.ByCount }}
+      <li>
+        <a href="{{ .Page.Permalink }}">
+          {{ .Term }}
+        </a>
+        <span class="term-count">({{ .Count }})</span>
+      </li>
+      {{ end }}
+    </ul>
+    {{ else }}
+    <p>Aún no hay etiquetas para mostrar.</p>
+    {{ end }}
+  </div>
+</main>
+{{ end }}
