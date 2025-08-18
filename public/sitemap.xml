@@ -59,8 +59,34 @@
     <loc>http://localhost:1313/ley/archivo-de-ejemplo/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jurisprudencia/causa13/</loc>
+    <loc>http://localhost:1313/tags/argentina/</loc>
+    <lastmod>1985-12-09T12:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>1985-12-09T12:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/causa-13/84/</loc>
+    <lastmod>1985-12-09T12:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/derechos-humanos/</loc>
+    <lastmod>1985-12-09T12:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dictadura-militar/</loc>
+    <lastmod>1985-12-09T12:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/historia/</loc>
+    <lastmod>1985-12-09T12:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/juicio-a-las-juntas/</loc>
+    <lastmod>1985-12-09T12:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/justicia/</loc>
+    <lastmod>1985-12-09T12:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jurisprudencia/causa13/</loc>
+    <lastmod>1985-12-09T12:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/videla/</loc>
+    <lastmod>1985-12-09T12:00:00-03:00</lastmod>
   </url>
 </urlset>

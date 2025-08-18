@@ -1,3 +1,21 @@
+---
+title: "La Sentencia Causa 13/84 (Juicio a las Juntas Militares)"
+date: 1985-12-09T12:00:00-03:00
+draft: false
+tags:
+  - "juicio a las juntas"
+  - "causa 13/84"
+  - "dictadura militar"
+  - "derechos humanos"
+  - "argentina"
+  - "videla"
+categories:
+  - "historia"
+  - "justicia"
+author: "Cámara Nacional de Apelaciones en lo Criminal y Correccional Federal"
+description: "Análisis y resumen de la histórica sentencia que condenó a los miembros de las Juntas Militares de la última dictadura cívico-militar en Argentina, detallando el contexto, los argumentos de la defensa y las pruebas presentadas."
+---
+
 # La Sentencia Causa 13/84 (Juicio a las Juntas Militares)
 
 Fecha de la Sentencia: 9 de diciembre de 1985  
