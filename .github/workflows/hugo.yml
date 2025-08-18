@@ -22,8 +22,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true  # <--- ESTA ES LA LÍNEA QUE RESUELVE EL PROBLEMA
+          submodules: true  # Descarga el tema Hextra
           fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20 # Versión de Node.js recomendada
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9 # Versión de pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile # Instala las dependencias del tema
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -31,7 +44,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build
+      - name: Build with Hugo
         run: hugo --minify
 
       - name: Upload artifact
