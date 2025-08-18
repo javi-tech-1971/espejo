@@ -2,63 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fuentedederecho.com.ar/doctrina/</loc>
+    <loc>http://localhost:1313/doctrina/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/jurisprudencia/</loc>
+    <loc>http://localhost:1313/jurisprudencia/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/ley/</loc>
+    <loc>http://localhost:1313/ley/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/novedades/</loc>
+    <loc>http://localhost:1313/novedades/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/tags/anuncios/</loc>
+    <loc>http://localhost:1313/tags/anuncios/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/tags/doctrina/</loc>
+    <loc>http://localhost:1313/tags/doctrina/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/novedades/archivo-de-ejemplo/</loc>
+    <loc>http://localhost:1313/novedades/archivo-de-ejemplo/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/tags/novedades/</loc>
+    <loc>http://localhost:1313/tags/novedades/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/tags/responsabilidad-del-estado/</loc>
+    <loc>http://localhost:1313/tags/responsabilidad-del-estado/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/doctrina/archivo-de-ejemplo/</loc>
+    <loc>http://localhost:1313/doctrina/archivo-de-ejemplo/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/tags/csjn/</loc>
+    <loc>http://localhost:1313/tags/csjn/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/jurisprudencia/archivo-de-ejemplo/</loc>
+    <loc>http://localhost:1313/jurisprudencia/archivo-de-ejemplo/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/tags/debido-proceso/</loc>
+    <loc>http://localhost:1313/tags/debido-proceso/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/tags/jurisprudencia/</loc>
+    <loc>http://localhost:1313/tags/jurisprudencia/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/tags/c%C3%B3digo-civil-y-comercial/</loc>
+    <loc>http://localhost:1313/tags/c%C3%B3digo-civil-y-comercial/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/tags/ley/</loc>
+    <loc>http://localhost:1313/tags/ley/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/ley/archivo-de-ejemplo/</loc>
+    <loc>http://localhost:1313/ley/archivo-de-ejemplo/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fuentedederecho.com.ar/categories/</loc>
+    <loc>http://localhost:1313/jurisprudencia/causa13/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
