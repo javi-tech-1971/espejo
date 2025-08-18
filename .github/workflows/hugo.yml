@@ -22,8 +22,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: true # Lo dejamos por si acaso, pero el siguiente paso es la clave
           fetch-depth: 0
+
+      # --- ESTE ES EL PASO CLAVE QUE FUERZA LA DESCARGA DEL TEMA ---
+      - name: Initialize and Update Submodules
+        run: git submodule update --init --recursive
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -44,10 +48,6 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      # --- PASO DE DIAGNÓSTICO AÑADIDO ---
-      - name: List theme files for debugging
-        run: ls -R themes
-
       - name: Build with Hugo
         run: hugo --minify
 
@@ -65,4 +65,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4 
