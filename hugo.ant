@@ -1,0 +1,49 @@
+title: "Fuente de Derecho"
+baseURL: "https://fuentedederecho.com.ar/"
+languageCode: "es-AR"
+defaultContentLanguage: "es"
+pagination:
+  pagerSize: 10
+enableRobotsTXT: true
+
+# Usamos Hextra vía módulos (NO pongas 'theme:' si usás modules)
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+# Menú principal con tus 4 secciones
+menus:
+  main:
+    - name: Doctrina
+      pageRef: /doctrina
+      weight: 10
+    - name: Jurisprudencia
+      pageRef: /jurisprudencia
+      weight: 20
+    - name: Ley
+      pageRef: /ley
+      weight: 30
+    - name: Novedades
+      pageRef: /novedades
+      weight: 40
+
+# Parámetros útiles de Hextra (navbar, sidebar, footer)
+params:
+  description: "Portal jurídico con doctrina, jurisprudencia, leyes y novedades."
+  navbar:
+    title: "Fuente de Derecho"
+  sidebar:
+    enable: true
+    compact: false
+  footer:
+    enable: true
+    content: "© {{ now.Year }} Fuente de Derecho — Publicado con Hugo + Hextra"
+
+# Salidas del home
+outputs:
+  home: [HTML, RSS]
+
+# Recomendado para resaltado moderno
+markup:
+  highlight:
+    noClasses: false

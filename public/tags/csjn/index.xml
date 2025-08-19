@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuente de Derecho – CSJN</title>
+    <link>http://localhost:1313/tags/csjn/</link>
+    <description>Recent content in CSJN on Fuente de Derecho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/csjn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>CSJN, &#39;Pérez c/ Estado Nacional&#39; (2024)</title>
+      <link>http://localhost:1313/jurisprudencia/archivo-de-ejemplo/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/jurisprudencia/archivo-de-ejemplo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Extracto y comentario &lt;strong&gt;de ejemplo&lt;/strong&gt;. Ideal para testear el renderizado de casos.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
