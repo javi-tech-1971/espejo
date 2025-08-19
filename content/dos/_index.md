@@ -1,5 +1,5 @@
 ---
-title: "Uno"
+title: "DOS"
 description: "algo"
 weight: 20
 ---
