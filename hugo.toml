@@ -45,5 +45,5 @@ title = 'Pagina Personal'
   author = "authors"
 
 [module]
-[[module.imports]]
-path = "github.com/imfing/hextra"
+  [[module.imports]]
+    path = "github.com/imfing/hextra"
