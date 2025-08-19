@@ -1,5 +1,5 @@
 ---
-title: "Doctrina"
-description: "Artículos y ensayos doctrinarios."
+title: "tres"
+description: "bla bla."
 weight: 10
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Jurisprudencia"
-description: "Fallos y decisiones judiciales relevantes."
+title: "Uno"
+description: "algo"
 weight: 20
 ---
