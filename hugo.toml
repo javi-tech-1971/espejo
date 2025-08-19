@@ -1,22 +1,22 @@
-baseURL = 'https://www.fuentederecho.com.ar/'
+baseURL = 'https://javi-tech-1971.github.io/espejo/'
 languageCode = 'es-ar'
-title = 'Fuente de Derecho'
+title = 'Pagina Personal'
 
 [menu]
   [[menu.main]]
-    identifier = "Ley"
-    name = "Ley"
-    url = "/ley/"
+    identifier = "UNO"
+    name = "UNO"
+    url = "/uno/"
     weight = 1
   [[menu.main]]
-    identifier = "Jurisprudencia"
-    name = "Jurisprudencia"
-    url = "/jurisprudencia/"
+    identifier = "DOS"
+    name = "DOS"
+    url = "/dos/"
     weight = 2
   [[menu.main]]
-    identifier = "Doctrina"
-    name = "Doctrina"
-    url = "/doctrina/"
+    identifier = "TRES"
+    name = "TRES"
+    url = "/tres/"
     weight = 3
   [[menu.main]]
     identifier = "Novedades"
