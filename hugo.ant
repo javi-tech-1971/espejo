@@ -17,8 +17,8 @@ menus:
     - name: Doctrina
       pageRef: /doctrina
       weight: 10
-    - name: Jurisprudencia
-      pageRef: /jurisprudencia
+    - name: Autos
+      pageRef: /Autos
       weight: 20
     - name: Ley
       pageRef: /ley
@@ -29,7 +29,7 @@ menus:
 
 # Parámetros útiles de Hextra (navbar, sidebar, footer)
 params:
-  description: "Portal jurídico con doctrina, jurisprudencia, leyes y novedades."
+  description: "Portal jurídico con doctrina, Autos, leyes y novedades."
   navbar:
     title: "Fuente de Derecho"
   sidebar:

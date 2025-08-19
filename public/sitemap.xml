@@ -5,7 +5,7 @@
     <loc>http://localhost:1313/doctrina/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jurisprudencia/</loc>
+    <loc>http://localhost:1313/Autos/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ley/</loc>
@@ -41,13 +41,13 @@
     <loc>http://localhost:1313/tags/csjn/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jurisprudencia/archivo-de-ejemplo/</loc>
+    <loc>http://localhost:1313/Autos/archivo-de-ejemplo/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/debido-proceso/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jurisprudencia/</loc>
+    <loc>http://localhost:1313/tags/Autos/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/c%C3%B3digo-civil-y-comercial/</loc>
@@ -83,7 +83,7 @@
     <loc>http://localhost:1313/categories/justicia/</loc>
     <lastmod>1985-12-09T12:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jurisprudencia/causa13/</loc>
+    <loc>http://localhost:1313/Autos/causa13/</loc>
     <lastmod>1985-12-09T12:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/videla/</loc>
