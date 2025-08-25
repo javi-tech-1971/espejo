@@ -1,7 +1,7 @@
 ---
-title: "INICIO"
-description: "nada"
+title: "."
+description: "nada" 
 weight: 30
 ---
 
-**página personal**
+
