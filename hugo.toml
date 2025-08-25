@@ -19,9 +19,9 @@ title = 'inicio'
     url = "/programacion/"
     weight = 2
   [[menu.main]]
-    identifier = "TRES"
-    name = "TRES"
-    url = "/tres/"
+    identifier = "DDHH"
+    name = "Derechos Humanos"
+    url = "/ddhh/"
     weight = 3
   [[menu.main]]
     identifier = "Novedades"
