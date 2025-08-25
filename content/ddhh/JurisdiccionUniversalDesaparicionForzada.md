@@ -12,10 +12,11 @@ images = ["images/jurisdiccion-penal-universal.jpg"]
 **Fecha:** 20 de agosto de 2025
 
 **Fuente:** Documento de la sala de conferencias del Consejo de Derechos Humanos A/HRC/60/CRP.2, “Jurisdicciónpenal universal en casos de desaparición forzada” del Grupo de Trabajo sobrelas Desapariciones Forzadas o Involuntarias.
+[Fuente Original](https://www.ohchr.org/en/documents/thematic-reports/ahrc60crp2-universal-criminal-jurisdiction-cases-enforced-disappearance)
 
 **I. RESUMEN EJECUTIVO**
 
-El presente informe del Grupo deTrabajo sobre las Desapariciones Forzadas o Involuntarias (en adelante, “el Grupo de Trabajo”) examina la aplicación de la jurisdicción penal universal a la desaparición forzada, destacando su **importancia crucial para promover larendición de cuentas por crímenes bajo el derecho internacional y ofrecer unarespuesta centrada en las víctimas**. El estudio desafía la noción de quesolo los Estados parte en ciertos tratados están obligados a aplicar lajurisdicción universal, enfatizando el **carácter de** _**jus cogens**_ **de laprohibición de la desaparición forzada**, lo que impone obligaciones a todoslos Estados para asegurar que tales violaciones no queden impunes.
+Aquí resumimos el informe del Grupo de Trabajo sobre las Desapariciones Forzadas o Involuntarias (en adelante, “el Grupo de Trabajo”) que examina la aplicación de la jurisdicción penal universal a la desaparición forzada, destacando su **importancia crucial para promover larendición de cuentas por crímenes bajo el derecho internacional y ofrecer unarespuesta centrada en las víctimas**. El estudio desafía la noción de quesolo los Estados parte en ciertos tratados están obligados a aplicar lajurisdicción universal, enfatizando el **carácter de** _**jus cogens**_ **de laprohibición de la desaparición forzada**, lo que impone obligaciones a todoslos Estados para asegurar que tales violaciones no queden impunes.
 
 A pesar de su crecientereconocimiento y adopción en la legislación doméstica de muchos Estados, las acusaciones y juicios por desaparición forzada bajo jurisdicción universal siguen siendo escasos. Esto se debe a múltiples razones, incluyendo la falta decodificación de la desaparición forzada como crimen autónomo en la legislación interna, formulaciones restrictivas, el tratamiento como crímenes accesorios, ylos obstáculos que representan las inmunidades (personales o funcionales).
 
