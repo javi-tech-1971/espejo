@@ -14,9 +14,9 @@ title = 'Pagina Personal'
     url = "/varios/"
     weight = 1
   [[menu.main]]
-    identifier = "DOS"
-    name = "DOS"
-    url = "/dos/"
+    identifier = "PROGRAMACION"
+    name = "PROGRAMACION"
+    url = "/programacion/"
     weight = 2
   [[menu.main]]
     identifier = "TRES"
