@@ -1,4 +1,5 @@
 ---
-title: "Página Personal"
-type: "page"
+title: "UNO"
+description: "sin descripción"
+weight: 30
 ---
