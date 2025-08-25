@@ -1,6 +1,6 @@
 ---
 title: "DDHH"
-description: "Derechos Humanos"
+description: "DDHH"
 weight: 10
 ---
 
