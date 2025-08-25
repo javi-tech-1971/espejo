@@ -1,4 +1,4 @@
- baseURL = 'https://javier.caramielo.com.ar/'
+baseURL = 'https://javier.caramielo.com.ar/'
 languageCode = 'es-ar'
 title = 'inicio'
 
@@ -20,7 +20,7 @@ title = 'inicio'
     weight = 2
   [[menu.main]]
     identifier = "DDHH"
-    name = "Derechos Humanos"
+    name = "DDHH"
     url = "/ddhh/"
     weight = 3
   [[menu.main]]
