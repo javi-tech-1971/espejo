@@ -3,32 +3,11 @@ title = "Jurisdicción Penal Universal en Casos de Desaparición Forzada"
 subtitle = "Análisis del informe del Grupo de Trabajo sobre las Desapariciones Forzadas o Involuntarias"
 date = 2025-08-20T00:00:00-03:00
 draft = false
-tags = [
-  "derechos humanos",
-  "jurisdicción universal",
-  "desaparición forzada",
-  "jus cogens",
-  "derecho internacional",
-  "crímenes de lesa humanidad",
-  "impunidad",
-  "Argentina",
-  "Francia",
-  "Alemania",
-  "Suiza"
-]
-categories = [
-  "derecho",
-  "análisis"
-]
+tags = ["derechos humanos", "jurisdicción universal", "desaparición forzada", "jus cogens", "derecho internacional", "crímenes de lesa humanidad", "impunidad", "Argentina", "Francia", "Alemania", "Suiza"]
 authors = ["Grupo de Trabajo sobre las Desapariciones Forzadas o Involuntarias"]
 description = "Un resumen y análisis del informe A/HRC/60/CRP.2, destacando la importancia y los desafíos de la jurisdicción penal universal para combatir la impunidad de la desaparición forzada."
-images = [
-  "images/jurisdiccion-penal-universal.jpg"
-]
+images = ["images/jurisdiccion-penal-universal.jpg"]
 ---
-
-
-
 
 **Fecha:** 20 de agosto de 2025
 
