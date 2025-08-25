@@ -1,6 +1,5 @@
 ---
 title = "Jurisdicción Penal Universal en Casos de Desaparición Forzada"
-subtitle = "Análisis del informe del Grupo de Trabajo sobre las Desapariciones Forzadas o Involuntarias"
 date = 2025-08-20T00:00:00-03:00
 draft = false
 tags = ["derechos humanos", "jurisdicción universal", "desaparición forzada", "jus cogens", "derecho internacional", "crímenes de lesa humanidad", "impunidad", "Argentina", "Francia", "Alemania", "Suiza"]
