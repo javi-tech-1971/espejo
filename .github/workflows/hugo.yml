@@ -1,4 +1,4 @@
-# Simple workflow for deploying static content to GitHub Pages
+ # Simple workflow for deploying static content to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
@@ -64,4 +64,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 
+        uses: actions/deploy-pages@v4
