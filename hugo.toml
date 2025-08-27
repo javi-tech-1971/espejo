@@ -36,12 +36,10 @@ title = 'inicio'
 
 [params]
   description = "Página Personal"
+  pwa = false # Agrego para testear evitar mensaje emergente 27/8/2025
 
   [params.search]
     enable = true
-
-  [params] # Agrego para testear evitar mensaje emergente 27/8/2025
-    pwa = false # Agrego para testear evitar mensaje emergente 27/8/2025
 
 [taxonomies]
   category = "categories"
@@ -51,4 +49,3 @@ title = 'inicio'
 [module]
   [[module.imports]]
     path = "github.com/imfing/hextra" 
-  
