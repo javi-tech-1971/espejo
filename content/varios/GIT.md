@@ -30,8 +30,6 @@ En esencia, Git es la herramienta fundamental para gestionar proyectos de softwa
 
 ## Git y el trabajo colaborativo
 
-## Git y el trabajo colaborativo
-
 Ahora sí, profundicemos en cómo Git se convierte en la herramienta central para el trabajo en equipo.
 
 Cuando trabajás en grupo, cada persona tiene su propia versión del proyecto en su computadora. Aquí es donde Git demuestra su poder como un sistema **distribuido**. En lugar de tener una única versión centralizada, cada integrante tiene un historial completo e independiente de todos los cambios.
