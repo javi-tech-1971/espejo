@@ -1,5 +1,5 @@
 ---
-title: "Una breve introducción a GIT"
+title: "GIT"
 description: "Una guía exhaustiva que cubre los conceptos fundamentales de Git, el flujo de trabajo local y en la nube con GitHub, la colaboración en proyectos de código abierto y la resolución de conflictos."
 date: 2025-08-18T10:10:38-03:00
 lastmod: 2025-08-18T10:10:38-03:00
@@ -18,10 +18,6 @@ tags:
   - Flujo de Trabajo
 weight: 10
 ---
-
-
-# Una breve introducción a GIT
-
 ## Concepto
 
 **GIT** es un sistema de control de versiones. Funciona como una máquina del tiempo para tu(s) código(s). Te permite llevar un registro detallado de los cambios que hacés en un proyecto.
