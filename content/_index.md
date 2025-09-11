@@ -6,4 +6,4 @@ weight: 30
 
 # Página de prueba
 
-## Sitio estático ***"Hugo/Hxtra"***
+Sitio estático ***"Hugo/Hxtra"***
